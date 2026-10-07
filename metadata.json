@@ -1,0 +1,6 @@
+{
+  "name": "LexVanguard — Executive AI Governance & Legal Intelligence",
+  "description": "Cross-border statutory intelligence, comparative AI regulatory matrices, enforcement chronologies, and executive legal briefings for general counsel and compliance leaders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
